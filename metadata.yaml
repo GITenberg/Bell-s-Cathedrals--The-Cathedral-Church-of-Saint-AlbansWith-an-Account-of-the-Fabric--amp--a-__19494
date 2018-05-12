@@ -1,0 +1,32 @@
+_repo: Bell-s-Cathedrals--The-Cathedral-Church-of-Saint-AlbansWith-an-Account-of-the-Fabric--amp--a-__19494
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Perkins, Thomas, Rev.
+    alias: Perkins, T. (Thomas) Rev.
+    birthdate: 1842
+    deathdate: 1907
+    gutenberg_agent_id: '8708'
+    url: http://www.gutenberg.org/2009/agents/8708
+description: ''
+gutenberg_bookshelf:
+- United Kingdom
+- Architecture
+gutenberg_issued: '2006-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19494'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NA'
+- !lcsh 'St. Albans Cathedral'
+title: 'Bell''s Cathedrals: The Cathedral Church of Saint Albans
+
+  With an Account of the Fabric & a Short History of the Abbey'
+url: http://www.gutenberg.org/ebooks/19494
