@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '8708'
     url: http://www.gutenberg.org/2009/agents/8708
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19494#Bell-s-Cathedrals--The-Cathedral-Church-of-Saint-AlbansWith-an-Account-of-the-Fabric--amp--a-_
 gutenberg_bookshelf:
 - United Kingdom
 - Architecture
